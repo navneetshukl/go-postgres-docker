@@ -11,7 +11,7 @@ import (
 func ConnectToDB() {
 	// Connection parameters
 	const (
-		//  host     = "localhost" // when not running in container
+		//host = "localhost" // when not running in container
 
 		host = "db" // when running in container
 
